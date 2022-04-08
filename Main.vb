@@ -1,6 +1,6 @@
 'Imports SkyCD_Simple
 Imports System.IO
-Imports SkyCD.Libraries.AdvancedFunctions.Strings
+Imports SkyCD.AdvancedFunctions.Strings
 Imports System.Collections.Generic
 
 Public Class Main
