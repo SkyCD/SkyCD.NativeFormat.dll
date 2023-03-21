@@ -3,6 +3,7 @@
     <TargetFramework>net5.0</TargetFramework>
     <OutputType>Library</OutputType>
     <RootNamespace>SkyCD.FileFormat.SkyCDNativeFormat</RootNamespace>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
     <AssemblyName>SkyCD.NativeFormat.dll</AssemblyName>
     <MyType>Empty</MyType>
     <SccProjectName>
